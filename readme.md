@@ -1,6 +1,6 @@
-# Task CLI - https://roadmap.sh/projects/task-tracker
-
-A simple command-line task tracker application built with PHP. This project is based on the roadmap.sh Task Tracker challenge.
+# Task CLI 
+A simple command-line task tracker application built with PHP. This project is based on the roadmap.sh(https://roadmap.sh/projects/task-tracker
+) Task Tracker challenge.
 
 ## Overview
 
