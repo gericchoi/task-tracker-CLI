@@ -1,0 +1,9 @@
+# Exclude any personal task data
+tasks.json
+
+# Exclude any PHP configuration files with sensitive info
+config.php
+
+# Exclude system files
+.DS_Store
+Thumbs.db
